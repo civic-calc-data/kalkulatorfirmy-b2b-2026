@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Jeśli korzystasz z tego zestawu danych w artykule, analizie lub porównaniu ofert pracy, podaj źródło KalkulatorFirmy.pl zgodnie z poniższymi danymi."
+title: "B2B czy etat 2026 (Polska): Progi opłacalności i realna wypłata na rękę na Dużym ZUS"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+url: "https://kalkulatorfirmy.pl/raporty/b2b-vs-etat-2026/"
+authors:
+  - name: "KalkulatorFirmy.pl"
+    website: "https://kalkulatorfirmy.pl/"
+    email: "kontakt@kalkulatorfirmy.pl"
+keywords:
+  - polska
+  - b2b
+  - uop
+  - jdg
+  - zus-2026
+  - ryczalt
+  - podatek-liniowy
+  - skladka-zdrowotna
+  - podatki-2026
+  - open-data
+abstract: "Otwarty plik CSV (46 wierszy) porównujący umowę o pracę i jednoosobową działalność B2B na Dużym ZUS w Polsce w 2026 roku dla budżetu pracodawcy od 8 000 do 30 000 zł miesięcznie (co 1 000 zł) w dwóch wariantach urlopowych: 26 dni niepłatnych i 500 zł kosztów miesięcznie oraz pełne 12 miesięcy bez kosztów."
